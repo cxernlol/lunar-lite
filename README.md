@@ -1,6 +1,5 @@
-# 🧠 YoloV12 AI Aimbot - Lunar LITE
+# 🧠 YoloV12 AI Aimbot - Lunarv12
 
-**Lunar LITE** is built on top of the original [Lunar](https://github.com/zeyad-mansour/lunar) project.
 
 It features an updated triggerbot, modernized packages, and YOLOv12 support.
 
@@ -28,7 +27,6 @@ It features an updated triggerbot, modernized packages, and YOLOv12 support.
 - ✅ Makcu support (UDP)
 - ✅ Works on AMD and NVIDIA graphics cards
 
-[Download Lunar V2](https://gannonr.com/lunar)
 
 ![Lunar V2 UI](https://github.com/user-attachments/assets/173ace44-2a46-45a3-aeba-5c2ce9c9e7b4)
 
