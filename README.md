@@ -119,10 +119,3 @@ python lunar.py collect_data
 </details>
 
 ---
-
-## 💬 Discord Support
-
-Support is only **guaranteed** for **Lunar V2**.  
-Please don’t expect full help for the free **LITE** version.
-
-👉 [Join our Discord](https://discord.gg/6DagxKzqrr)
